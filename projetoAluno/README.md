@@ -19,25 +19,29 @@ data_nascimento (DATE, NOT NULL): Data de nascimento.
 telefone (VARCHAR(15), NULL): Número de telefone (opcional).
 criado_em (DATETIME, DEFAULT CURRENT_TIMESTAMP): Data de criação do registro.
 atualizado_em (DATETIME, DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP): Última atualização.
+```
 2. Tabela Curso
 Registra os cursos disponíveis.
 
 Atributos:
+```
 id (INT, PRIMARY KEY, AUTO_INCREMENT): Identificador único.
 nome (VARCHAR(100), NOT NULL): Nome do curso.
 descricao (TEXT, NULL): Descrição do curso.
 duracao_meses (INT, NOT NULL): Duração do curso em meses.
 criado_em (DATETIME, DEFAULT CURRENT_TIMESTAMP): Data de criação do registro.
+```
+
 3. Tabela Matricula
 Relaciona os alunos com os cursos.
 
 Atributos:
+```
 id (INT, PRIMARY KEY, AUTO_INCREMENT): Identificador único.
 aluno_id (INT, FOREIGN KEY): Referência ao aluno.
 curso_id (INT, FOREIGN KEY): Referência ao curso.
 data_matricula (DATE, DEFAULT CURRENT_DATE): Data da matrícula.
 status (VARCHAR(20), DEFAULT 'Ativo'): Status da matrícula (Ativo, Cancelado, etc.).
-
 ```
 
 ![image](https://github.com/user-attachments/assets/9d1935ad-93c3-49af-a555-43f9334bbde4)
@@ -90,7 +94,7 @@ public class DatabaseConnection {
 A instância DatabaseConnection.Instance é usada em todas as operações CRUD, garantindo eficiência e controle.
 
 
-Qualidade do Código: 
+### Qualidade do Código: 
 
 Código organizado em classes separadas para Modelo, Repositório e Controladores.
 Nomes claros e autoexplicativos para variáveis, métodos e componentes.
@@ -98,6 +102,7 @@ Comentários documentando funções e lógicas importantes.
 
 
 ### Relatório
+
 O projeto demonstra:
 
 Um modelo de dados bem estruturado com relacionamentos um-para-muitos.
