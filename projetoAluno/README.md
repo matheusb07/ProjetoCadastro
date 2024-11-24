@@ -11,6 +11,7 @@ O modelo de dados foi projetado para gerenciar o cadastro de alunos em uma insti
 Armazena informações básicas dos alunos.
 
 Atributos:
+```
 id (INT, PRIMARY KEY, AUTO_INCREMENT): Identificador único.
 nome (VARCHAR(100), NOT NULL): Nome completo do aluno.
 email (VARCHAR(150), UNIQUE, NOT NULL): Endereço de e-mail do aluno.
@@ -37,7 +38,7 @@ curso_id (INT, FOREIGN KEY): Referência ao curso.
 data_matricula (DATE, DEFAULT CURRENT_DATE): Data da matrícula.
 status (VARCHAR(20), DEFAULT 'Ativo'): Status da matrícula (Ativo, Cancelado, etc.).
 
-
+```
 
 ![image](https://github.com/user-attachments/assets/9d1935ad-93c3-49af-a555-43f9334bbde4)
 
