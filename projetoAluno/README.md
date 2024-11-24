@@ -59,8 +59,9 @@ Validação de formato para campos como email e telefone.
 Padrão Singleton
 Uma classe Singleton foi implementada para gerenciar a conexão com o banco de dados. Esta abordagem garante que apenas uma instância da conexão seja criada e compartilhada durante toda a execução da aplicação.
 
-Implementação:
+### Implementação:
 
+```csharp
 public class DatabaseConnection {
     private static DatabaseConnection _instance;
     private SqlConnection _connection;
@@ -82,6 +83,8 @@ public class DatabaseConnection {
         return _connection;
     }
 }
+
+
 
 A instância DatabaseConnection.Instance é usada em todas as operações CRUD, garantindo eficiência e controle.
 
