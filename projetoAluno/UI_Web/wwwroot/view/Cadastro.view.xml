@@ -1,0 +1,31 @@
+<mvc:View
+    controllerName="ControleDeAlunos.controller.Cadastro"
+    xmlns="sap.m"
+	xmlns:f="sap.ui.layout.form"
+	xmlns:mvc="sap.ui.core.mvc">
+	<Page title="{i18n>tituloCadastro}" showNavButton="true" navButtonPress="aoClicarBotaoVoltar" titleAlignment="Center">
+		<FlexBox alignItems="Center" justifyContent="Center">
+			<f:SimpleForm layout="ResponsiveGridLayout" class="sapUiLargeMarginTop" backgroundDesign="Solid" id="formulario">
+				<f:content>
+					<Label text="{i18n>labelNome}"/>
+					<Input  placeholder="{i18n>placeholderNome}" value="{aluno>/nome}" required="true" id="campoNome"/>
+					<Label text="{i18n>labelCpf}"   />
+					<MaskInput mask="999.999.999-99" placeholder="{i18n>placeholderCpf}"  value="{aluno>/cpf}" required="true" id="campoCPF">
+					</MaskInput>
+					<Label text="{i18n>labelTelefone}"/>
+					<MaskInput mask="(99)99999-9999" placeholder="{i18n>placeholderTelefone}" value="{aluno>/telefone}" required="true" id ="campoTelefone">
+					</MaskInput>
+					<Label text="{i18n>labelDataNascimento}"/>
+					<DatePicker placeholder="{i18n>placeholderData}" class="sapUiSmallMarginBottom" width="auto"  required="true" id="campoNascimento"  value="{ 'path': 'aluno>/nascimento', 'type': 'sap.ui.model.type.Date', 'formatOptions': {'pattern': 'dd/MM/y'}}"/>
+					<Label></Label>
+					<FlexBox alignItems="Center" justifyContent="End">
+						<Button icon="sap-icon://sys-cancel" class="sapUiTinyMarginEnd" text="{i18n>btnCancelar}" width="auto" press="aoClicarBotaoCancelar">
+						</Button>
+						<Button icon="sap-icon://save" text="{i18n>btnSalvar}" type="Emphasized" width="auto" press="aoClicarBotaoSalvar">
+						</Button>
+					</FlexBox>
+				</f:content>
+			</f:SimpleForm>
+		</FlexBox>
+	</Page>
+</mvc:View>

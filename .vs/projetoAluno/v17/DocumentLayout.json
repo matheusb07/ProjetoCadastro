@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Infra\\Conversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projetoAluno\\Infra\\Conversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Infra\\Infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projetoAluno\\Infra\\Infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Infra\\IRepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projetoAluno\\Infra\\IRepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Infra\\Repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projetoAluno\\Infra\\Repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Infra\\RepositorioBd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projetoAluno\\Infra\\RepositorioBd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Infra\\RepositorioLinq2DB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projetoAluno\\Infra\\RepositorioLinq2DB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Infra\\20230504_AddLogTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projetoAluno\\Infra\\20230504_AddLogTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\UI_Web\\wwwroot\\view\\TelaInicial.view.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projetoAluno\\UI_Web\\wwwroot\\view\\TelaInicial.view.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\UI_Web\\wwwroot\\view\\Detalhes.view.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projetoAluno\\UI_Web\\wwwroot\\view\\Detalhes.view.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\UI_Web\\wwwroot\\view\\App.view.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projetoAluno\\UI_Web\\wwwroot\\view\\App.view.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\UI_Web\\wwwroot\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projetoAluno\\UI_Web\\wwwroot\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\UI_Web\\wwwroot\\Component.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projetoAluno\\UI_Web\\wwwroot\\Component.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\UI_Web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projetoAluno\\UI_Web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\UI_Web\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projetoAluno\\UI_Web\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\UI_Web\\UI_Web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projetoAluno\\UI_Web\\UI_Web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projetoAluno\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Infra\\ListaSingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projetoAluno\\Infra\\ListaSingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Infra\\FluentMigratorConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projetoAluno\\Infra\\FluentMigratorConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Dominio\\Aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projetoAluno\\Dominio\\Aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Dominio\\Dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projetoAluno\\Dominio\\Dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Dominio\\ValidarForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projetoAluno\\Dominio\\ValidarForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\CadastrarAluno\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projetoAluno\\CadastrarAluno\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\CadastrarAluno\\TelaCadastro.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projetoAluno\\CadastrarAluno\\TelaCadastro.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\CadastrarAluno\\TelainIcial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projetoAluno\\CadastrarAluno\\TelainIcial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\CadastrarAluno\\TelainIcial.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projetoAluno\\CadastrarAluno\\TelainIcial.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\CadastrarAluno\\TelaCadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projetoAluno\\CadastrarAluno\\TelaCadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conversor.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Infra\\Conversor.cs",
+              "RelativeDocumentMoniker": "projetoAluno\\Infra\\Conversor.cs",
+              "ToolTip": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Infra\\Conversor.cs",
+              "RelativeToolTip": "projetoAluno\\Infra\\Conversor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:08:22.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Infra\\Repositorio.cs",
+              "RelativeDocumentMoniker": "projetoAluno\\Infra\\Repositorio.cs",
+              "ToolTip": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Infra\\Repositorio.cs",
+              "RelativeToolTip": "projetoAluno\\Infra\\Repositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:08:14.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositorioBd.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Infra\\RepositorioBd.cs",
+              "RelativeDocumentMoniker": "projetoAluno\\Infra\\RepositorioBd.cs",
+              "ToolTip": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Infra\\RepositorioBd.cs",
+              "RelativeToolTip": "projetoAluno\\Infra\\RepositorioBd.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:08:06.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepositorioLinq2DB.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Infra\\RepositorioLinq2DB.cs",
+              "RelativeDocumentMoniker": "projetoAluno\\Infra\\RepositorioLinq2DB.cs",
+              "ToolTip": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Infra\\RepositorioLinq2DB.cs",
+              "RelativeToolTip": "projetoAluno\\Infra\\RepositorioLinq2DB.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:08:01.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20230504_AddLogTable.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Infra\\20230504_AddLogTable.cs",
+              "RelativeDocumentMoniker": "projetoAluno\\Infra\\20230504_AddLogTable.cs",
+              "ToolTip": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Infra\\20230504_AddLogTable.cs",
+              "RelativeToolTip": "projetoAluno\\Infra\\20230504_AddLogTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:07:56.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TelaInicial.view.xml",
+              "DocumentMoniker": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\UI_Web\\wwwroot\\view\\TelaInicial.view.xml",
+              "RelativeDocumentMoniker": "projetoAluno\\UI_Web\\wwwroot\\view\\TelaInicial.view.xml",
+              "ToolTip": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\UI_Web\\wwwroot\\view\\TelaInicial.view.xml",
+              "RelativeToolTip": "projetoAluno\\UI_Web\\wwwroot\\view\\TelaInicial.view.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-24T20:06:22.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Detalhes.view.xml",
+              "DocumentMoniker": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\UI_Web\\wwwroot\\view\\Detalhes.view.xml",
+              "RelativeDocumentMoniker": "projetoAluno\\UI_Web\\wwwroot\\view\\Detalhes.view.xml",
+              "ToolTip": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\UI_Web\\wwwroot\\view\\Detalhes.view.xml",
+              "RelativeToolTip": "projetoAluno\\UI_Web\\wwwroot\\view\\Detalhes.view.xml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-24T20:06:16.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.view.xml",
+              "DocumentMoniker": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\UI_Web\\wwwroot\\view\\App.view.xml",
+              "RelativeDocumentMoniker": "projetoAluno\\UI_Web\\wwwroot\\view\\App.view.xml",
+              "ToolTip": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\UI_Web\\wwwroot\\view\\App.view.xml",
+              "RelativeToolTip": "projetoAluno\\UI_Web\\wwwroot\\view\\App.view.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-24T20:06:15.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\UI_Web\\wwwroot\\index.js",
+              "RelativeDocumentMoniker": "projetoAluno\\UI_Web\\wwwroot\\index.js",
+              "ToolTip": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\UI_Web\\wwwroot\\index.js",
+              "RelativeToolTip": "projetoAluno\\UI_Web\\wwwroot\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-24T20:06:10.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Component.js",
+              "DocumentMoniker": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\UI_Web\\wwwroot\\Component.js",
+              "RelativeDocumentMoniker": "projetoAluno\\UI_Web\\wwwroot\\Component.js",
+              "ToolTip": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\UI_Web\\wwwroot\\Component.js",
+              "RelativeToolTip": "projetoAluno\\UI_Web\\wwwroot\\Component.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-24T20:06:08.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Infra\\IRepositorio.cs",
+              "RelativeDocumentMoniker": "projetoAluno\\Infra\\IRepositorio.cs",
+              "ToolTip": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Infra\\IRepositorio.cs",
+              "RelativeToolTip": "projetoAluno\\Infra\\IRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:05:07.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Infra.csproj",
+              "DocumentMoniker": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Infra\\Infra.csproj",
+              "RelativeDocumentMoniker": "projetoAluno\\Infra\\Infra.csproj",
+              "ToolTip": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Infra\\Infra.csproj",
+              "RelativeToolTip": "projetoAluno\\Infra\\Infra.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T20:05:05.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\UI_Web\\appsettings.json",
+              "RelativeDocumentMoniker": "projetoAluno\\UI_Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\UI_Web\\appsettings.json",
+              "RelativeToolTip": "projetoAluno\\UI_Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T20:06:02.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\.gitignore",
+              "RelativeDocumentMoniker": "projetoAluno\\.gitignore",
+              "ToolTip": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\.gitignore",
+              "RelativeToolTip": "projetoAluno\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-24T20:05:34.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\UI_Web\\Program.cs",
+              "RelativeDocumentMoniker": "projetoAluno\\UI_Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\UI_Web\\Program.cs",
+              "RelativeToolTip": "projetoAluno\\UI_Web\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:05:13.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UI_Web.csproj",
+              "DocumentMoniker": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\UI_Web\\UI_Web.csproj",
+              "RelativeDocumentMoniker": "projetoAluno\\UI_Web\\UI_Web.csproj",
+              "ToolTip": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\UI_Web\\UI_Web.csproj",
+              "RelativeToolTip": "projetoAluno\\UI_Web\\UI_Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T20:05:12.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ListaSingleton.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Infra\\ListaSingleton.cs",
+              "RelativeDocumentMoniker": "projetoAluno\\Infra\\ListaSingleton.cs",
+              "ToolTip": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Infra\\ListaSingleton.cs",
+              "RelativeToolTip": "projetoAluno\\Infra\\ListaSingleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:05:06.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FluentMigratorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Infra\\FluentMigratorConfiguration.cs",
+              "RelativeDocumentMoniker": "projetoAluno\\Infra\\FluentMigratorConfiguration.cs",
+              "ToolTip": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Infra\\FluentMigratorConfiguration.cs",
+              "RelativeToolTip": "projetoAluno\\Infra\\FluentMigratorConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:05:04.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Dominio.csproj",
+              "DocumentMoniker": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Dominio\\Dominio.csproj",
+              "RelativeDocumentMoniker": "projetoAluno\\Dominio\\Dominio.csproj",
+              "ToolTip": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Dominio\\Dominio.csproj",
+              "RelativeToolTip": "projetoAluno\\Dominio\\Dominio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T20:05:00.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ValidarForm.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Dominio\\ValidarForm.cs",
+              "RelativeDocumentMoniker": "projetoAluno\\Dominio\\ValidarForm.cs",
+              "ToolTip": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Dominio\\ValidarForm.cs",
+              "RelativeToolTip": "projetoAluno\\Dominio\\ValidarForm.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:04:57.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Dominio\\Aluno.cs",
+              "RelativeDocumentMoniker": "projetoAluno\\Dominio\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\Dominio\\Aluno.cs",
+              "RelativeToolTip": "projetoAluno\\Dominio\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:04:56.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TelainIcial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\CadastrarAluno\\TelainIcial.Designer.cs",
+              "RelativeDocumentMoniker": "projetoAluno\\CadastrarAluno\\TelainIcial.Designer.cs",
+              "ToolTip": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\CadastrarAluno\\TelainIcial.Designer.cs",
+              "RelativeToolTip": "projetoAluno\\CadastrarAluno\\TelainIcial.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:59:02.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TelainIcial.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\CadastrarAluno\\TelainIcial.cs",
+              "RelativeDocumentMoniker": "projetoAluno\\CadastrarAluno\\TelainIcial.cs",
+              "ToolTip": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\CadastrarAluno\\TelainIcial.cs",
+              "RelativeToolTip": "projetoAluno\\CadastrarAluno\\TelainIcial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:59:02.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TelaCadastro.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\CadastrarAluno\\TelaCadastro.Designer.cs",
+              "RelativeDocumentMoniker": "projetoAluno\\CadastrarAluno\\TelaCadastro.Designer.cs",
+              "ToolTip": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\CadastrarAluno\\TelaCadastro.Designer.cs",
+              "RelativeToolTip": "projetoAluno\\CadastrarAluno\\TelaCadastro.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:59:01.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TelaCadastro.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\CadastrarAluno\\TelaCadastro.cs",
+              "RelativeDocumentMoniker": "projetoAluno\\CadastrarAluno\\TelaCadastro.cs",
+              "ToolTip": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\CadastrarAluno\\TelaCadastro.cs",
+              "RelativeToolTip": "projetoAluno\\CadastrarAluno\\TelaCadastro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:58:59.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\CadastrarAluno\\Program.cs",
+              "RelativeDocumentMoniker": "projetoAluno\\CadastrarAluno\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Bonatto\\Downloads\\projetoAluno\\projetoAluno\\CadastrarAluno\\Program.cs",
+              "RelativeToolTip": "projetoAluno\\CadastrarAluno\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:58:58.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

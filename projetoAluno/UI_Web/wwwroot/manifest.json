@@ -1,0 +1,123 @@
+{
+	"_version": "1.21.0",
+	"sap.app": {
+		"_version": "1.3.0",
+		"id": "alunos",
+		"type": "application",
+		"i18n": {
+			"bundleUrl": "i18n/i18n.properties",
+			"supportedLocales": [
+				""
+			],
+			"fallbackLocale": ""
+		},
+		"title": "{{appTitulo}}",
+		"description": "{{appDescricao}}",
+		"ach": "ach",
+		"resources": "resources.json",
+		"sourceTemplate": {
+			"id": "ui5template.basicSAPUI5ApplicationProject",
+			"version": "1.32.0"
+		}
+	},
+	"sap.ui": {
+		"technology": "UI5",
+		"deviceTypes": {
+			"desktop": true,
+			"tablet": true,
+			"phone": true
+		}
+	},
+	"sap.ui5": {
+		"rootView": {
+			"viewName": "ControleDeAlunos.view.App",
+			"type": "XML",
+			"id": "app"
+		},
+		"dependencies": {
+			"minUI5Version": "1.98.0",
+			"libs": {
+				"sap.ui.core": {},
+				"sap.m": {}
+			}
+		},
+		"contentDensities": {
+			"compact": true,
+			"cozy": true
+		},
+		"models": {
+			"i18n": {
+				"type": "sap.ui.model.resource.ResourceModel",
+				"settings": {
+					"bundleName": "ControleDeAlunos.i18n.i18n",
+					"supportedLocales": [
+						""
+					],
+					"fallbackLocale": ""
+				}
+			}
+		},
+		"routing": {
+			"config": {
+				"routerClass": "sap.m.routing.Router",
+				"type": "View",
+				"viewType": "XML",
+				"path": "ControleDeAlunos.view",
+				"controlId": "app",
+				"controlAggregation": "pages"
+			},
+			"routes": [
+				{
+					"pattern": "",
+					"name": "TelaInicial",
+					"target": [
+						"TelaInicial"
+					]
+				},
+				{
+					"pattern": "detalhes/{id}",
+					"name": "Detalhes",
+					"target": [
+						"Detalhes"
+					]
+				},
+				{
+					"pattern": "cadastro",
+					"name": "Cadastro",
+					"target": [
+						"Cadastro"
+					]
+				},
+				{
+					"pattern": "cadastro/{id}",
+					"name": "Editar",
+					"target": [
+						"cadastro"
+					]
+				}
+			],
+			"targets": {
+				"TelaInicial": {
+					"name": "TelaInicial",
+					"id": "TelaInicial",
+					"transition": "slide"
+				},
+				"Detalhes": {
+					"name": "Detalhes",
+					"id": "Detalhes",
+					"transition": "slide"
+				},
+				"Cadastro": {
+					"name": "Cadastro",
+					"id": "Cadastro",
+					"transition": "slide"
+				},
+				"cadastro": {
+					"name": "cadastro",
+					"id": "cadastro",
+					"transition": "slide"
+				}
+			}
+		}
+	}
+}

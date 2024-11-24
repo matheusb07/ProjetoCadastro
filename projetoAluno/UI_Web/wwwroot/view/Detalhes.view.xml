@@ -1,0 +1,61 @@
+<mvc:View
+	controllerName="ControleDeAlunos.controller.Detalhes"
+	xmlns="sap.m"
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns:f="sap.ui.layout.form"
+	busyIndicatorDelay="0"
+>
+	<Page
+		title="Detalhes do aluno(a) {aluno>/nome}"
+		showNavButton="true"
+		navButtonPress="aoClicarBotaoVoltar"
+		class="sapUiResponsiveContentPadding"
+	>
+		<content>
+			<Panel
+				width="auto"
+				class="sapUiNoContentPadding"
+			>
+				<headerToolbar>
+					<Toolbar>
+						<Title
+							text="ID: {aluno>/id}"
+							level="H2"
+						/>
+						<ToolbarSpacer/>
+						<Button
+							text="Editar"
+							icon="sap-icon://user-edit"
+							press="aoClicarBotaoEditar"
+						/>
+						<Button
+							text="Excluir"
+							icon="sap-icon://delete"
+							press="aoClicarBotaoExcluir"
+						/>
+					</Toolbar>
+				</headerToolbar>
+				<f:SimpleForm
+					editable="false"
+					layout="ResponsiveGridLayout"
+					labelSpanL="3"
+					labelSpanM="3"
+					emptySpanL="4"
+					emptySpanM="4"
+					columnsL="1"
+				>
+					<f:content>
+						<Label text="Nome"/>
+						<Text text="{aluno>/nome}"/>
+						<Label text="CPF"/>
+						<Text text="{aluno>/cpf}"/>
+						<Label text="Telefone"/>
+						<Text text="{aluno>/telefone}"/>
+						<Label text="Data de Nascimento"/>
+						<Text text=  "{ 'path': 'aluno>/nascimento', 'type': 'sap.ui.model.type.Date', 'formatOptions': {'pattern': 'dd/MM/y'}}"/>
+					</f:content>
+				</f:SimpleForm>
+			</Panel>
+		</content>
+	</Page>
+</mvc:View>

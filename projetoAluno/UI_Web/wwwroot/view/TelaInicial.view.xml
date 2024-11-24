@@ -1,0 +1,56 @@
+<mvc:View
+	controllerName="ControleDeAlunos.controller.TelaInicial"
+	xmlns="sap.m"
+	xmlns:mvc="sap.ui.core.mvc"
+	displayBlock="true"
+>
+		<App>
+			<Page title="{i18n>telaInicialTitulo}" titleAlignment="Center">
+				<content>
+				 	<Table width="auto" noDataText="{i18n>semDadosTabela}"  items="{alunos>/}"  class="sapUiTinyMargin" id="tabela">
+						<headerToolbar>
+							<OverflowToolbar width="auto" height="auto" design="Transparent">
+								<content>
+									<ToolbarSpacer width=""/>
+									<SearchField placeholder="{i18n>buscar}" width="auto" search="Pesquisa"/>
+									<Button  icon="sap-icon://add" iconFirst="false" width="auto"  iconDensityAware="false" press="aoClicarAbreCadastro" tooltip="Adicionar Aluno"/>
+								</content>
+							</OverflowToolbar>
+						</headerToolbar>
+						<columns>
+							<Column width="auto" hAlign="Left" vAlign="Middle" minScreenWidth="Small" demandPopin="true" popinDisplay="Inline">
+								<header>
+									<Text text="{i18n>colunaNome}" width="auto"/>
+								</header>
+							</Column>
+							<Column width="auto" hAlign="Left" vAlign="Middle" minScreenWidth="Small" demandPopin="true" popinDisplay="Inline">
+								<header>
+									<Text text="{i18n>colunaCpf}" width="auto"/>
+								</header>
+							</Column>
+							<Column width="auto" hAlign="Left" vAlign="Middle" minScreenWidth="Small" demandPopin="true" popinDisplay="Inline">
+								<header>
+									<Text text="{i18n>colunaTelefone}"  width="auto" />
+								</header>
+							</Column>
+							<Column width="auto" hAlign="Left" vAlign="Middle" minScreenWidth="Small" demandPopin="true" popinDisplay="Inline">
+								<header>
+									<Text text="{i18n>colunaDataNascimento}"  width="auto"/>
+								</header>
+							</Column>
+                		</columns>
+							<items>
+								<ColumnListItem type="Navigation" press="aoClicarAbreDetalhes">
+								<cells>
+									<ObjectIdentifier title="" text="{alunos>nome}"/>
+									<Text text="{alunos>cpf}"/>
+									<Text text="{alunos>telefone}"/>
+									<Text text="{path: 'alunos>nascimento', type : 'sap.ui.model.type.Date', formatOptions: {style : 'medium', source: {pattern: 'yyyy-MM-ddTHH:mm:ss.mmm'}}}"/>
+								</cells>
+							</ColumnListItem>
+						</items>
+					</Table>
+				</content>
+			</Page>
+		</App>
+</mvc:View>
