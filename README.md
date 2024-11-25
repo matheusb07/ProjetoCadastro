@@ -44,10 +44,11 @@ data_matricula (DATE, DEFAULT CURRENT_DATE): Data da matrícula.
 status (VARCHAR(20), DEFAULT 'Ativo'): Status da matrícula (Ativo, Cancelado, etc.).
 ```
 
-![image](https://github.com/user-attachments/assets/9d1935ad-93c3-49af-a555-43f9334bbde4)
+![image](https://github.com/user-attachments/assets/0cd24062-4dbf-481a-838a-6f443ef2bc1e)
 
 
-Funcionalidades da Aplicação
+
+### Funcionalidades da Aplicação:
 A aplicação foi desenvolvida em Windows Forms com C#, oferecendo as seguintes funcionalidades para cada tabela:
 
 CRUD Completo
